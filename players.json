@@ -1,0 +1,282 @@
+[
+  {
+    "id": "josh-allen",
+    "name": "Josh Allen",
+    "sport": "NFL",
+    "team": "BUF",
+    "position": "QB",
+    "stats": [
+      [
+        "Pass Yds",
+        3731
+      ],
+      [
+        "Pass TD",
+        28
+      ],
+      [
+        "Rush Yds",
+        531
+      ],
+      [
+        "Rush TD",
+        12
+      ]
+    ],
+    "games": 17,
+    "recent": [
+      20.1,
+      27.4,
+      22.8,
+      31.2,
+      24.0
+    ],
+    "injury": "Not verified",
+    "news": "https://news.google.com/search?q=Josh%20Allen%20Buffalo%20Bills"
+  },
+  {
+    "id": "lamar-jackson",
+    "name": "Lamar Jackson",
+    "sport": "NFL",
+    "team": "BAL",
+    "position": "QB",
+    "stats": [
+      [
+        "Pass Yds",
+        4172
+      ],
+      [
+        "Pass TD",
+        41
+      ],
+      [
+        "Rush Yds",
+        915
+      ],
+      [
+        "Rush TD",
+        4
+      ]
+    ],
+    "games": 17,
+    "recent": [
+      28.0,
+      22.4,
+      30.2,
+      24.1,
+      27.5
+    ],
+    "injury": "Not verified",
+    "news": "https://news.google.com/search?q=Lamar%20Jackson%20NFL"
+  },
+  {
+    "id": "nikola-jokic",
+    "name": "Nikola Jokić",
+    "sport": "NBA",
+    "team": "DEN",
+    "position": "C",
+    "stats": [
+      [
+        "Points/G",
+        29.6
+      ],
+      [
+        "Rebounds/G",
+        12.7
+      ],
+      [
+        "Assists/G",
+        10.2
+      ],
+      [
+        "Steals/G",
+        1.8
+      ]
+    ],
+    "games": 70,
+    "recent": [
+      53.1,
+      61.4,
+      48.2,
+      55.3,
+      59.0
+    ],
+    "injury": "Not verified",
+    "news": "https://news.google.com/search?q=Nikola%20Jokic%20NBA"
+  },
+  {
+    "id": "victor-wembanyama",
+    "name": "Victor Wembanyama",
+    "sport": "NBA",
+    "team": "SAS",
+    "position": "C",
+    "stats": [
+      [
+        "Points/G",
+        24.3
+      ],
+      [
+        "Rebounds/G",
+        11
+      ],
+      [
+        "Blocks/G",
+        3.8
+      ],
+      [
+        "Assists/G",
+        3.7
+      ]
+    ],
+    "games": 46,
+    "recent": [
+      49.2,
+      58.1,
+      51.0,
+      42.3,
+      56.4
+    ],
+    "injury": "Not verified",
+    "news": "https://news.google.com/search?q=Victor%20Wembanyama"
+  },
+  {
+    "id": "shohei-ohtani",
+    "name": "Shohei Ohtani",
+    "sport": "MLB",
+    "team": "LAD",
+    "position": "DH",
+    "stats": [
+      [
+        "HR",
+        54
+      ],
+      [
+        "RBI",
+        130
+      ],
+      [
+        "SB",
+        59
+      ],
+      [
+        "AVG",
+        0.31
+      ]
+    ],
+    "games": 159,
+    "recent": [
+      12,
+      18,
+      5,
+      21,
+      15
+    ],
+    "injury": "Not verified",
+    "news": "https://news.google.com/search?q=Shohei%20Ohtani"
+  },
+  {
+    "id": "aaron-judge",
+    "name": "Aaron Judge",
+    "sport": "MLB",
+    "team": "NYY",
+    "position": "OF",
+    "stats": [
+      [
+        "HR",
+        58
+      ],
+      [
+        "RBI",
+        144
+      ],
+      [
+        "AVG",
+        0.322
+      ],
+      [
+        "OPS",
+        1.159
+      ]
+    ],
+    "games": 158,
+    "recent": [
+      10,
+      8,
+      18,
+      12,
+      21
+    ],
+    "injury": "Not verified",
+    "news": "https://news.google.com/search?q=Aaron%20Judge"
+  },
+  {
+    "id": "connor-mcdavid",
+    "name": "Connor McDavid",
+    "sport": "NHL",
+    "team": "EDM",
+    "position": "C",
+    "stats": [
+      [
+        "Goals",
+        32
+      ],
+      [
+        "Assists",
+        68
+      ],
+      [
+        "Points",
+        100
+      ],
+      [
+        "Games",
+        67
+      ]
+    ],
+    "games": 67,
+    "recent": [
+      3,
+      4,
+      2,
+      5,
+      4
+    ],
+    "injury": "Not verified",
+    "news": "https://news.google.com/search?q=Connor%20McDavid"
+  },
+  {
+    "id": "nathan-mackinnon",
+    "name": "Nathan MacKinnon",
+    "sport": "NHL",
+    "team": "COL",
+    "position": "C",
+    "stats": [
+      [
+        "Goals",
+        51
+      ],
+      [
+        "Assists",
+        89
+      ],
+      [
+        "Points",
+        140
+      ],
+      [
+        "Games",
+        82
+      ]
+    ],
+    "games": 82,
+    "recent": [
+      3,
+      5,
+      4,
+      2,
+      6
+    ],
+    "injury": "Not verified",
+    "news": "https://news.google.com/search?q=Nathan%20MacKinnon"
+  }
+]
